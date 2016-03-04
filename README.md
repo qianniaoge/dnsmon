@@ -15,7 +15,7 @@ You can use the optimised dnsmon-dist.js for production purposes.
 The code of DNSMON is documented by using YUIDoc.
 
 YUIDoc is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
-Once you have YUIDoc installed on your machine you can simply generate the documentation with 'yuidoc .' in the root of the project
+Once you have YUIDoc installed on your machine you can simply generate the documentation running 'yuidoc .' in the root of the project
 
 #### Additional Informations for Developers
 During the development you should set dev: true, localCacheActive: false, and debugMode: true in the embedding options.
